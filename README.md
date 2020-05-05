@@ -1,2 +1,2 @@
-# not_a_monad_tutorial
+# Not A Monad Tutorial
 Articles from our blog
