@@ -2,7 +2,7 @@
 
 > We interviewed [Timothy Baldridge](https://twitter.com/timbaldridge), creator of [Pixie](https://github.com/pixie-lang/pixie), a small, fast, native lisp with _magical powers_. We hope you try it out!
 
-![Timothy Baldridge](./img/timothybaldridge.jpeg)
+![Timothy Baldridge](./img/timothy-baldridge.jpeg)
 
 ### Please tell us a little bit about Pixie’s inception and the road to the current status.
 
